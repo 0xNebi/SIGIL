@@ -1,0 +1,4 @@
+# LUNATIC v2 — Admin tools dependencies (your machine only, NOT distributed)
+# Install with: pip install -r requirements-admin.txt
+
+cryptography>=42.0.0

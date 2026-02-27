@@ -1,0 +1,13 @@
+# LUNATIC v2 — Python dependencies
+# Install with: pip install -r requirements.txt
+#
+# NOTE: pygame-ce (Community Edition) is required — NOT classic pygame.
+#       pygame_gui pulls it in automatically, but listing it explicitly
+#       prevents pip from also installing conflicting classic pygame.
+
+pygame-ce>=2.5.0
+pygame_gui>=0.6.9
+cryptography>=42.0.0
+pyperclip>=1.8.2
+bcrypt>=4.1.0
+pyinstaller>=6.0.0
