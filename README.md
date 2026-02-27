@@ -1,4 +1,6 @@
-﻿A secure, offline desktop application launcher for Windows.  
+![SIGIL](https://github.com/user-attachments/assets/db5a84c3-0bee-44bc-a6fd-6a0f7e03d9d7)
+
+ A secure, offline desktop application launcher for Windows.  
 SIGIL lets you register as a user using a hardware-bound licence key, log in, and run signed plugin scripts — all through a clean, animated GUI with no browser or internet required.
 
 ---
